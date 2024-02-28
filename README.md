@@ -86,3 +86,18 @@ Quotes-24/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+## Technologies Used
+
+- Python
+- Flask
+- SQLAlchemy
+- MySQL
+
+## Contributors
+
+- [Abou el faraj ayoub](https://github.com/abouelfaraj)
+
+## License
+
+Alx license.
