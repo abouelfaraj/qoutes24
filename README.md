@@ -1,21 +1,21 @@
-# My Flask App
+# My Flask QOUTES24
 
 ## Description
 
-This is a Flask web application for managing quotes.
+Welcome to "QUOTES," an immersive web application designed to ignite inspiration and foster connections through the power of words. With a seamless integration of front-end accessibility and robust back-end functionality, "QUOTES" offers a comprehensive platform for discovering, sharing, and contributing to a curated collection of insightful quotes.
 
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/your_project.git
+    git clone https://github.com/abouelfaraj/qoutes24.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your_project
+    cd qoutes24
     ```
 
 3. **Install dependencies:**
@@ -37,7 +37,7 @@ This is a Flask web application for managing quotes.
 5. **Run the Flask application:**
 
     ```bash
-    python3 front/app.py
+    python3 qoutes24/app.py
     ```
 
 ## Usage
